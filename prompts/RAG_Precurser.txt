@@ -1,0 +1,3 @@
+In financial reports, companies are increasingly incorporating AI tools for data analysis and forecasting. Specifically, there is a growing trend in utilizing large language models (LLMs) such as GPT-4 for enhancing the accuracy of financial projections and market assessments. Companies are encouraged to provide explicit statements in their reports, indicating the extent to which AI technologies like GPT-4 were employed. This transparency aids in ensuring the thorough review of financial documents, identifying potential discrepancies, and assessing the impact of AI-driven analyses.
+
+Mention the large language model based product mentioned in the paragraph above:

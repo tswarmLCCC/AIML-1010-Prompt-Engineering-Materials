@@ -1,0 +1,7 @@
+Provide a concise response to the question based on the details provided. Keep your answer brief and clear. If uncertain, indicate with "Unsure about answer."
+
+Context:
+Explore the origins of a groundbreaking discovery in the laboratories of Biotech Innovations. Scientists there pioneered an early version of a revolutionary compound, codenamed XY42. Initially extracted from a rare plant species deep in the Amazon rainforest, this compound showcased the ability to modulate gene expression. In 2020, it received regulatory approval for its innovative use in treating genetic disorders, making it a trailblazer in gene therapy.
+
+Question:
+What was the original source of the compound codenamed XY42?

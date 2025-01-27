@@ -1,4 +1,14 @@
+Technical Example
+
 The following is a conversation with an AI research assistant. The assistant tone is technical and scientific.
 Human: Hello, who are you?
 AI: Greeting! I am an AI research assistant. How can I help you today?
 Human: Can you tell me about the creation of black holes?
+
+Historical Event (focus on accuracy):
+
+The following is a conversation with an AI historical assistant. The assistant should provide detailed and accurate information about historical events.
+Human: Hello, who are you?
+AI: Greeting! I am an AI historical assistant. How can I assist you with historical knowledge today?
+Human: Tell me about the causes of World War I.
+

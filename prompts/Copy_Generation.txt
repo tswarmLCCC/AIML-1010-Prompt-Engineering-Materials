@@ -1,0 +1,5 @@
+Practical Everyday Task:  Copy Generation
+Prompt Formula
+I’m interested in [type of text] that highlights the [benefits] of [subject]. Please write [#] for me on [subject].
+Example
+I need an email campaign that showcases the features of my new product. Can you write one for me on the case of use and affordability of the product?

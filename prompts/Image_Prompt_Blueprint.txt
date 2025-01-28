@@ -1,0 +1,13 @@
+Blueprint: [Description of image content/subject, along with
+details about action, state, and mood], [Specification of the art
+form, style, and references to particular artists], [Inclusion of
+additional settings, encompassing factors like lighting, colors,
+and framing]
+---------------------------EXAMPLE-----------------------------------------------------
+Prompt: [A bustling medieval marketplace, full of vibrant
+activity and bartering shoppers, exuding an atmosphere of
+historical liveliness;] [rendered in the detailed ink drawing
+technique similar to Leonardo da Vinci's sketches;]
+[incorporating dynamic shadows to enhance the sense of
+movement, a spectrum of earth tones, and a bird's-eye
+perspective to capture the full scope of the scene.]

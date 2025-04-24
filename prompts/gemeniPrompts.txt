@@ -1,0 +1,5 @@
+“What are 3 highly rated restaurants near [location] that are open right now and offer outdoor seating options suitable for this time of year? Briefly mention their cuisine type."   
+“Outline a soccer workout plan for my tween focused on improving endurance and coordination. Assume access to basic gym equipment (treadmill, stationary bike, rowing machine). Specify types of exercises, duration, and frequency per week, including warm-up and cool-down suggestions."   
+"Considering my hobbies and interests, suggest a new skill or activity that aligns with my passions but I've yet to explore."   
+“Help me plan dinner when I only have 30 minutes between finishing up work and dropping my daughter off at tennis practice.”   
+"Summarize the main arguments of the following article: [insert article text here]."

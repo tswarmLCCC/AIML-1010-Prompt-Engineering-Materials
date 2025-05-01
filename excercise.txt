@@ -1,0 +1,8 @@
+Can you generate an 8-week workout plan that will help me build muscle? I work out in a local gym, so can use most standard equipment, but I only have about 60 minutes a day to exercise.   
+Can you tell me about the correct technique for doing a Romanian Deadlift?
+With this workout plan - what sort of weight should I start with, and how do I lift heavier?
+I'm on holiday and there's a gym in my hotel, can you generate a quick 30-minute workout for my whole body?
+I'm 6 feet tall and weigh 107kg, can you calculate a rough BMR for me, as well as an ideal macronutrient split for fat loss?   
+I'd like you to generate a one-week meal plan targeting 2,500 kcal a day. I'd like to eat three times a day, getting 40% of my calories from protein.   
+I only have 600 calories left in my intake today, but need to consume around 50 grams of protein. Can you think of a good meal?   
+
